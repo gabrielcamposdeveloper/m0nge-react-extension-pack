@@ -22,4 +22,4 @@ Ready to transform your coding experience? Embrace the artistry and precision of
 
 ## Suporte
 
-https://github.com/jovemm0nge/m0nge-react-extension-pack/issues
+https://github.com/gabrielcamposdeveloper/m0nge-react-extension-pack/issues
